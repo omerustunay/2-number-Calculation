@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">easy calculator</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="sayi_giriniz">sayi giriniz</string>
+    <string name="sayi_giriniz1">sayi giriniz</string>
+    <string name="cevap">Cevap</string>
+    <string name="topla">topla</string>
+    <string name="kar">çıkar</string>
+    <string name="b_l">böl</string>
+    <string name="arp">çarp</string>
+    <string name="temizle">Temizle</string>
+
+</resources>
